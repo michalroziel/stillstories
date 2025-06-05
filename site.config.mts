@@ -10,12 +10,12 @@ export interface SocialLink {
 export default {
 	title: 'SR',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Michal Roziel',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/michalroziel/stillstories',
 			icon: Github,
 		} as SocialLink,
 		{

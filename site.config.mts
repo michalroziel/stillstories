@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'MR',
+	title: 'XR',
 	favicon: 'favicon.ico',
 	owner: 'Michal Roziel',
 	profileImage: 'profile.webp',

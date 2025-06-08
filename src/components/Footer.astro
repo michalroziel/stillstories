@@ -12,9 +12,9 @@ const socialLinks = siteConfig.socialLinks;
 		<div class="flex flex-col md:flex-row justify-between items-center">
 			<div class="text-sm font-sans text-gray-500 mb-4 md:mb-0">
 				© {year}
-				{owner}. All rights reserved.
+				{owner}. All rights reserved. &middot;
+				<a href="/impressum" class="underline hover:text-black ml-2">Impressum</a>
 			</div>
-
 			<div class="flex space-x-6">
 				{socialLinks.map((socialLink) => <SocialIcon socialLink={socialLink} />)}
 			</div>

@@ -14,4 +14,11 @@ import FeaturedWorkScroll from '../components/FeaturedWorkScroll.astro';
 	<section class="featured-section py-20">
 		<FeaturedGallery />
 	</section>
+
+	<!-- Add Impressum link using BASE_URL -->
+	<div class="text-center mt-8">
+		<a href={`${import.meta.env.BASE_URL}impressum/`} class="underline hover:text-black">
+			Impressum
+		</a>
+	</div>
 </MainLayout>

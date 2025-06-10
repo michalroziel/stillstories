@@ -11,7 +11,7 @@ export default {
 	title: 'MR',
 	favicon: 'logo.svg',
 	owner: 'Michal Roziel',
-	profileImage: 'profile.webp',
+	profileImage: 'michal.jpg',
 	socialLinks: [
 		{
 			name: 'GitHub',

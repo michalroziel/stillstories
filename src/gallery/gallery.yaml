@@ -15,7 +15,7 @@ images:
       description: landscape of the Island Eysturoy
       collections:
         - faroe
-      exif: {}
+    exif: {}
 
   - path: nature/nature-2.jpg
     meta:

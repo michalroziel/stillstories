@@ -1,6 +1,6 @@
 collections:
   - id: faroe
-  - name: Faroe
+    name: Faroe
   - id: nature
     name: Nature
   - id: travel

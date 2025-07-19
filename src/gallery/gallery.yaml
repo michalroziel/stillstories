@@ -1,11 +1,23 @@
 collections:
+  - id: faroe
+  - name: Faroe
   - id: nature
     name: Nature
   - id: travel
     name: Travel
   - id: street
     name: Street
+
 images:
+
+  - path: faroe/faroe-Eysturoy.jpeg
+    meta:
+      title: Faroe View 1
+      description: landscape of the Island Eysturoy
+      collections:
+          - faroe
+      exif: {}
+
   - path: nature/nature-2.jpg
     meta:
       title: Nature scene 2

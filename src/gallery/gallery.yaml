@@ -9,13 +9,12 @@ collections:
     name: Street
 
 images:
-
   - path: faroe/faroe-Eysturoy.jpeg
     meta:
       title: Faroe View 1.1
       description: landscape of the Island Eysturoy
       collections:
-          - faroe
+        - faroe
       exif: {}
 
   - path: nature/nature-2.jpg

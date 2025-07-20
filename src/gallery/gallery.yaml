@@ -3,8 +3,6 @@ collections:
     name: Faroe
   - id: sailing
     name: Sailing
-  - id: travel
-    name: Travel
   - id: antarctica
     name: Antarctica
 
@@ -51,7 +49,7 @@ images:
         - faroe
     exif: {}
 
-  - path: sailing/cherbourg-sunset-min.JPG
+  - path: sailing/cherbourg-sunset-min.jpeg
     meta:
       title: Sunset at sea
       description: Sunset seen at sea while traveling from Cherbourg in France to Cowes.
@@ -93,13 +91,4 @@ images:
       collections:
         - antarctica
         - featured
-    exif: {}
-
-  - path: travel/travel-1.jpg
-    meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
     exif: {}

@@ -51,7 +51,7 @@ images:
         - faroe
     exif: {}
 
-  - path: sailing/cherbourg-sunset-min.jpeg
+  - path: sailing/cherbourg-sunset-min.JPG
     meta:
       title: Sunset at sea
       description: Sunset seen at sea while traveling from Cherbourg in France to Cowes.

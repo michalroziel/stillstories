@@ -5,8 +5,8 @@ collections:
     name: Nature
   - id: travel
     name: Travel
-  - id: street
-    name: Street
+  - id: antarctica
+    name: antarctica
 
 images:
   - path: faroe/faroe-Eysturoy.jpeg
@@ -24,6 +24,23 @@ images:
       collections:
         - faroe
         - featured
+    exif: {}
+
+  - path: faroe/faroe-bay.jpeg
+    meta:
+      title: Faroe Bay
+      description: A small Bay.
+      collections:
+        - faroe
+        - featured
+    exif: {}
+
+  - path: faroe/faroe-eglise.jpeg
+    meta:
+      title: Church in the Faroe Islands
+      description: A church amidst the Faroe Islands.
+      collections:
+        - faroe
     exif: {}
 
   - path: nature/nature-2.jpg
@@ -85,14 +102,43 @@ images:
       collections:
         - nature
     exif: {}
-  - path: street/stree-1.jpg
+
+  - path: antarctica/antarctica-humpback.jpeg
     meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
+      title: humpback fin
+      description: The Fin of a majestic Humpback whale in its natural habitat.
       collections:
+        - antarctica
         - featured
-        - street
     exif: {}
+
+  - path: antarctica/antarctica-penguins.jpeg
+    meta:
+      title: penguins in their nests
+      description: Penguins in their nests.
+      collections:
+        - antarctica
+        - featured
+    exif: {}
+
+  - path: antarctica/antarctica-wordie-house.jpeg
+    meta:
+      title: wordie house
+      description: Small Hut named after Scottish polar explorer James Wordie who was the chief scientist and geologist on Shackleton's Endurance expedition of 1914-17
+      collections:
+        - antarctica
+        - featured
+    exif: {}
+
+  - path: antarctica/antarctica-ushuaia.jpeg
+    meta:
+      title: view at ushaia at night.
+      description: view after coming back from the expedition.
+      collections:
+        - antarctica
+        - featured
+    exif: {}
+
   - path: travel/travel-1.jpg
     meta:
       title: Travel scene 1

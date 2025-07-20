@@ -55,6 +55,7 @@ images:
       description: Sunset seen at sea while traveling from Cherbourg in France to Cowes.
       collections:
         - sailing
+        - featured
     exif: {}
 
   - path: antarctica/antarctica-humpback.jpg

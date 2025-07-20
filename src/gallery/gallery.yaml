@@ -1,14 +1,22 @@
 collections:
   - id: faroe
     name: Faroe
-  - id: nature
-    name: Nature
+  - id: sailing
+    name: Sailing
   - id: travel
     name: Travel
   - id: antarctica
-    name: antarctica
+    name: Antarctica
 
 images:
+  - path: faroe/faroe-island.jpeg
+    meta:
+      title: Faroe View 1.3
+      description: A view of an Island captured on the Deck of Selma Expeditions.
+      collections:
+        - faroe
+    exif: {}
+
   - path: faroe/faroe-Eysturoy.jpeg
     meta:
       title: Faroe View 1.1
@@ -43,64 +51,12 @@ images:
         - faroe
     exif: {}
 
-  - path: nature/nature-2.jpg
+  - path: sailing/cherbourg-sunset-min.jpeg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
+      title: Sunset at sea
+      description: Sunset seen at sea while traveling from Cherbourg in France to Cowes.
       collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
+        - sailing
     exif: {}
 
   - path: antarctica/antarctica-humpback.jpg
@@ -146,11 +102,4 @@ images:
       collections:
         - featured
         - travel
-    exif: {}
-  - path: nature/nature-1.jpg
-    meta:
-      title: Nature 1
-      description: ''
-      collections:
-        - nature
     exif: {}

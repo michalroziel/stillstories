@@ -12,9 +12,18 @@ images:
   - path: faroe/faroe-Eysturoy.jpeg
     meta:
       title: Faroe View 1.1
-      description: landscape of the Island Eysturoy
+      description: landscape of the Faroe Island Eysturoy.
       collections:
         - faroe
+    exif: {}
+
+  - path: faroe/faroe-front.jpeg
+    meta:
+      title: Faroe View 1.2
+      description: Selma Expeditions having arrived at the Faroe Islands.
+      collections:
+        - faroe
+        - featured
     exif: {}
 
   - path: nature/nature-2.jpg

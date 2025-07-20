@@ -103,7 +103,7 @@ images:
         - nature
     exif: {}
 
-  - path: antarctica/antarctica-humpback.jpeg
+  - path: antarctica/antarctica-humpback.jpg
     meta:
       title: humpback fin
       description: The Fin of a majestic Humpback whale in its natural habitat.
@@ -112,7 +112,7 @@ images:
         - featured
     exif: {}
 
-  - path: antarctica/antarctica-penguins.jpeg
+  - path: antarctica/antarctica-penguins-min.jpeg
     meta:
       title: penguins in their nests
       description: Penguins in their nests.
@@ -130,7 +130,7 @@ images:
         - featured
     exif: {}
 
-  - path: antarctica/antarctica-ushuaia.jpeg
+  - path: antarctica/antarctica-ushuaia.jpg
     meta:
       title: view at ushaia at night.
       description: view after coming back from the expedition.

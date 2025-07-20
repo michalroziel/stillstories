@@ -2,6 +2,6 @@
 title: About me
 ---
 
-### Hi, I'm Michal Roziel 👋
+### Hi, I'm Michał Roziel 👋
 
-I've been a photographer for over 10 years ! : )
+I've been a sailor for over 10 years ! : )

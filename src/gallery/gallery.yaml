@@ -57,6 +57,14 @@ images:
         - sailing
         - featured
     exif: {}
+  - path: sailing/reefing.jpeg
+    meta:
+      title: Reefing of Sails
+      description: As the wind began to pick up, the crew started reefing the mainsail to prevent the boat from becoming overpowered.
+      collections:
+        - sailing
+        - featured
+    exif: {}
 
   - path: antarctica/antarctica-humpback.jpg
     meta:
